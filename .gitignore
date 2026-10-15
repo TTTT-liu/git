@@ -1,0 +1,23 @@
+# IDE (PyCharm / IntelliJ)
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+build/
+dist/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Local environment
+.env
